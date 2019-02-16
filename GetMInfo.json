@@ -1,0 +1,21 @@
+"GetMList" : [
+
+{
+	"textId": 1000,
+	"textName" :"为什么卡号详情显示不了？",
+	"textContent" : "可以"
+},
+{
+	"textId": 1001,
+	"textName" :"为什么删除不了源机？",
+	"textContent" : "可以"
+},
+{
+	"textId": 1002,
+	"textName" :"为什么卡号详情显示不了？",
+	"textContent" : "可以"
+}
+
+
+
+]
